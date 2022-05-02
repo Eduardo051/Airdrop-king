@@ -81,43 +81,82 @@
             ],
             "Items": [
                 {
-                    "Item": "Mag_AKM_Drum75rnd",
+                    "Item": "AmmoBox_308WinTracer_20Rnd",
                     "MinQty": 1,
                     "MaxQty": 75,
                     "Attachments": []
                 },
                 {
-                    "Item": "Mag_SVD_10rnd",
+                    "Item": "TTC_DMR_556Pmag_100rnd_camo",
                     "MinQty": 1,
-                    "MaxQty": 10,
+                    "MaxQty": 75,
+                    "Attachments": []
+                },
+                {
+                    "Item": "TTC_338mag_10rnd",
+                    "MinQty": 1,
+                    "MaxQty": 75,
+                    "Attachments": []
+                },
+                {
+                    "Item": "TTC_G3_Magazine_20rnd",
+                    "MinQty": 1,
+                    "MaxQty": 75,
+                    "Attachments": []
+                },
+                {
+                    "Item": "TTC_GEVAR43_Magazine_10rnd",
+                    "MinQty": 1,
+                    "MaxQty": 75,
                     "Attachments": []
                 }
             ],
             "Weapons": [
                 {
-                    "Item": "FAL",
+                    "Item": "TTC_R700",
                     "Attachments": [
-                        "Mag_FAL_20Rnd",
-                        "Fal_FoldingBttstck",
-                        "ACOGOptic"
+                        "HuntingOptic"
                     ]
                 },
                 {
-                    "Item": "AKM",
+                    "Item": "TTC_MCX_Spear",
                     "Attachments": [
-                        "Mag_AKM_Drum75rnd",
-                        "AK_WoodHndgrd",
-                        "AK_woodBttStck",
-                        "KobraOptic"
+                        "TTC_MCX_Spear_Magazine_20rnd",
+                        "TTC_MPXMCX1_Bttstck"
+
                     ]
                 },
                 {
-                    "Item": "SVD",
+                    "Item": "TTC_HK416Comp",
                     "Attachments": [
-                        "Mag_SVD_10rnd",
-                        "PSO1Optic"
+                        "TTC_DMR_556Pmag_100rnd_camo",
+                        "TTC_Buttstock"
+                    ]
+                },
+                {
+                    "Item": "TTC_FD338",
+                    "Attachments": [
+                        "TTC_DMR_Bipod",
+                        "HuntingOptic" ,
+                        "TTC_338mag_10rnd"
+                    ]
+                },
+                {
+                    "Item": "TTC_GEVAR43_Green",
+                    "Attachments": [
+                        "TTC_GEVAR43_Magazine_10rnd",
+                        "TTC_DMR_Bipod",
+                        "HuntingOptic"
+                    ]
+                },
+                {
+                    "Item": "TTC_G3",
+                    "Attachments": [
+                        "TTC_G3_Magazine_20rnd"
+                        
                     ]
                 }
+                
             ]
         },
         {
